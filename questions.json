@@ -1,0 +1,3704 @@
+{
+  "v": 5,
+  "topics": [
+    {
+      "id": "pres_simple",
+      "name": "Present Simple",
+      "icon": "🌞",
+      "color": "#f472b6"
+    },
+    {
+      "id": "pres_cont",
+      "name": "Present Continuous",
+      "icon": "⏳",
+      "color": "#38bdf8"
+    },
+    {
+      "id": "past_simple",
+      "name": "Past Simple",
+      "icon": "⏪",
+      "color": "#ec4899"
+    },
+    {
+      "id": "past_cont",
+      "name": "Past Continuous",
+      "icon": "🎞️",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "perfect",
+      "name": "Present Perfect",
+      "icon": "🎯",
+      "color": "#f9a8d4"
+    },
+    {
+      "id": "fut_will",
+      "name": "Future: will",
+      "icon": "🔮",
+      "color": "#3b82f6"
+    },
+    {
+      "id": "fut_going",
+      "name": "Future: be going to",
+      "icon": "🚀",
+      "color": "#7dd3fc"
+    }
+  ],
+  "questions": [
+    {
+      "type": "match",
+      "topic": "pres_simple",
+      "q": "More verbs with he / she / it",
+      "pairs": [
+        [
+          "read",
+          "reads"
+        ],
+        [
+          "teach",
+          "teaches"
+        ],
+        [
+          "carry",
+          "carries"
+        ],
+        [
+          "say",
+          "says"
+        ],
+        [
+          "pass",
+          "passes"
+        ],
+        [
+          "play",
+          "plays"
+        ]
+      ],
+      "e": "Add -s or -es. Verbs ending in consonant + y change y to -ies.",
+      "id": "d001"
+    },
+    {
+      "type": "mcq",
+      "topic": "pres_simple",
+      "q": "My uncle never ___ coffee.",
+      "o": [
+        "drink",
+        "drinks",
+        "is drinking",
+        "drank"
+      ],
+      "a": 1,
+      "e": "With he / she / it (my uncle) the present simple verb takes -s: drinks.",
+      "fa": "",
+      "id": "d002"
+    },
+    {
+      "type": "build",
+      "topic": "pres_simple",
+      "s": "My brother plays chess on Fridays.",
+      "fa": "Say what your brother does on Fridays.",
+      "x": [
+        "play"
+      ],
+      "e": "With he / she / it the present simple verb takes -s: plays.",
+      "id": "d003"
+    },
+    {
+      "type": "build",
+      "topic": "pres_simple",
+      "s": "They do not eat meat.",
+      "fa": "Say they do not eat meat.",
+      "x": [
+        "eats"
+      ],
+      "e": "Negative: do not + base verb.",
+      "id": "d004"
+    },
+    {
+      "type": "build",
+      "topic": "pres_simple",
+      "s": "What time does the film start?",
+      "fa": "Ask about the starting time of the film.",
+      "x": [
+        "do"
+      ],
+      "e": "Question: question word + does + subject + base verb.",
+      "id": "d005"
+    },
+    {
+      "type": "build",
+      "topic": "pres_simple",
+      "s": "We usually go to bed at ten.",
+      "fa": "Say what time you usually go to bed.",
+      "x": [
+        "goes"
+      ],
+      "e": "With we the verb has no -s. Adverbs of frequency go before the main verb.",
+      "id": "d006"
+    },
+    {
+      "type": "build",
+      "topic": "pres_simple",
+      "s": "Does your sister speak French?",
+      "fa": "Ask if someone's sister speaks French.",
+      "x": [
+        "speaks"
+      ],
+      "e": "After Does the verb stays in the base form.",
+      "id": "d007"
+    },
+    {
+      "type": "build",
+      "topic": "pres_simple",
+      "s": "The sun rises in the east.",
+      "fa": "Say a fact about the sun.",
+      "x": [
+        "rise"
+      ],
+      "e": "A general fact → present simple. With it / the sun the verb takes -s.",
+      "id": "d008"
+    },
+    {
+      "type": "error",
+      "topic": "pres_simple",
+      "s": "My mother work in a hospital.",
+      "w": 2,
+      "f": "works",
+      "e": "With he / she / it (my mother) the verb takes -s.",
+      "id": "d009"
+    },
+    {
+      "type": "error",
+      "topic": "pres_simple",
+      "s": "Do she like tea?",
+      "w": 0,
+      "f": "Does",
+      "e": "With he / she / it the question starts with Does.",
+      "id": "d010"
+    },
+    {
+      "type": "error",
+      "topic": "pres_simple",
+      "s": "They doesn't live in Tehran.",
+      "w": 1,
+      "f": "don't",
+      "e": "With they the negative is don't, not doesn't.",
+      "id": "d011"
+    },
+    {
+      "type": "error",
+      "topic": "pres_simple",
+      "s": "He watch TV every evening.",
+      "w": 1,
+      "f": "watches",
+      "e": "With he the verb takes -es: watches.",
+      "id": "d012"
+    },
+    {
+      "type": "error",
+      "topic": "pres_simple",
+      "s": "What time do the shop open?",
+      "w": 2,
+      "f": "does",
+      "e": "With the shop (it) we use does.",
+      "id": "d013"
+    },
+    {
+      "type": "error",
+      "topic": "pres_simple",
+      "s": "I likes pizza very much.",
+      "w": 1,
+      "f": "like",
+      "e": "With I the verb has no -s.",
+      "id": "d014"
+    },
+    {
+      "type": "type",
+      "topic": "pres_simple",
+      "q": "He always ___ (drink) tea in the morning.",
+      "a": [
+        "drinks"
+      ],
+      "e": "With he the present simple verb takes -s: drinks.",
+      "id": "d015"
+    },
+    {
+      "type": "type",
+      "topic": "pres_simple",
+      "q": "My parents ___ (not / like) loud music.",
+      "a": [
+        "don't like",
+        "do not like"
+      ],
+      "e": "With they the negative is don't + base verb.",
+      "id": "d016"
+    },
+    {
+      "type": "type",
+      "topic": "pres_simple",
+      "q": "She ___ (go) to the gym on Mondays.",
+      "a": [
+        "goes"
+      ],
+      "e": "Verbs ending in -o take -es: goes.",
+      "id": "d017"
+    },
+    {
+      "type": "type",
+      "topic": "pres_simple",
+      "q": "___ (do) your brother play tennis?",
+      "a": [
+        "Does"
+      ],
+      "e": "With he / she / it the question starts with Does.",
+      "id": "d018"
+    },
+    {
+      "type": "type",
+      "topic": "pres_simple",
+      "q": "The bus ___ (leave) at 8.15 every morning.",
+      "a": [
+        "leaves"
+      ],
+      "e": "A regular timetable → present simple. With it the verb takes -s.",
+      "id": "d019"
+    },
+    {
+      "type": "type",
+      "topic": "pres_simple",
+      "q": "Tom ___ (not / eat) breakfast at home.",
+      "a": [
+        "doesn't eat",
+        "does not eat"
+      ],
+      "e": "With he the negative is doesn't + base verb.",
+      "id": "d020"
+    },
+    {
+      "type": "type",
+      "topic": "pres_simple",
+      "q": "My dog ___ (have) a long tail.",
+      "a": [
+        "has"
+      ],
+      "e": "With he / she / it, have becomes has.",
+      "id": "d021"
+    },
+    {
+      "type": "mcq",
+      "topic": "pres_simple",
+      "q": "She ___ to school every day.",
+      "o": [
+        "go",
+        "goes",
+        "going",
+        "gone"
+      ],
+      "a": 1,
+      "e": "For he / she / it in the present simple, add -s or -es to the verb: She goes.",
+      "fa": "",
+      "id": "d022"
+    },
+    {
+      "type": "mcq",
+      "topic": "pres_simple",
+      "q": "We usually ___ TV in the evening.",
+      "o": [
+        "watch",
+        "watches",
+        "are watching",
+        "watched"
+      ],
+      "a": 0,
+      "e": "The adverb usually shows a habit → present simple. With we, the verb has no -s.",
+      "fa": "",
+      "id": "d023"
+    },
+    {
+      "type": "mcq",
+      "topic": "pres_simple",
+      "q": "___ you like pizza?",
+      "o": [
+        "Does",
+        "Do",
+        "Are",
+        "Is"
+      ],
+      "a": 1,
+      "e": "Present simple questions with I / you / we / they start with Do.",
+      "fa": "",
+      "id": "d024"
+    },
+    {
+      "type": "mcq",
+      "topic": "pres_simple",
+      "q": "My brother ___ get up early on Sundays.",
+      "o": [
+        "doesn't",
+        "don't",
+        "isn't",
+        "not"
+      ],
+      "a": 0,
+      "e": "With he / she / it the negative is doesn't + base verb.",
+      "fa": "",
+      "id": "d025"
+    },
+    {
+      "type": "build",
+      "topic": "pres_simple",
+      "s": "My father works in a bank.",
+      "fa": "Say where my father works.",
+      "x": [
+        "work"
+      ],
+      "e": "Third person singular → the verb takes -s: works.",
+      "id": "d026"
+    },
+    {
+      "type": "build",
+      "topic": "pres_simple",
+      "s": "Does she play the piano?",
+      "fa": "Ask if she plays the piano.",
+      "x": [
+        "plays"
+      ],
+      "e": "Questions: Does + subject + base verb.",
+      "id": "d027"
+    },
+    {
+      "type": "error",
+      "topic": "pres_simple",
+      "s": "He don't like cold milk.",
+      "w": 1,
+      "f": "doesn't",
+      "e": "With He (third person singular) the negative auxiliary is doesn't, not don't.",
+      "id": "d028"
+    },
+    {
+      "type": "error",
+      "topic": "pres_simple",
+      "s": "She go to work by bus.",
+      "w": 1,
+      "f": "goes",
+      "e": "With she / he / it the verb takes -s or -es: goes.",
+      "id": "d029"
+    },
+    {
+      "type": "type",
+      "topic": "pres_simple",
+      "q": "My sister ___ (watch) cartoons every day.",
+      "a": [
+        "watches"
+      ],
+      "e": "Verbs ending in -ch take -es: watches.",
+      "id": "d030"
+    },
+    {
+      "type": "type",
+      "topic": "pres_simple",
+      "q": "Water ___ (boil) at 100 degrees.",
+      "a": [
+        "boils"
+      ],
+      "e": "Facts use the present simple; with it the verb takes -s: boils.",
+      "id": "d031"
+    },
+    {
+      "type": "match",
+      "topic": "pres_simple",
+      "q": "Verbs with he / she / it",
+      "pairs": [
+        [
+          "go",
+          "goes"
+        ],
+        [
+          "watch",
+          "watches"
+        ],
+        [
+          "study",
+          "studies"
+        ],
+        [
+          "have",
+          "has"
+        ],
+        [
+          "do",
+          "does"
+        ],
+        [
+          "fix",
+          "fixes"
+        ]
+      ],
+      "e": "Add -s or -es. Verbs ending in consonant + y change y to -ies; have becomes has.",
+      "id": "d032"
+    },
+    {
+      "type": "mcq",
+      "topic": "pres_simple",
+      "q": "Where ___ your cousin live?",
+      "o": [
+        "do",
+        "does",
+        "is",
+        "are"
+      ],
+      "a": 1,
+      "e": "Wh- questions in the present simple use do / does. With he / she / it we use does.",
+      "fa": "",
+      "id": "d033"
+    },
+    {
+      "type": "mcq",
+      "topic": "pres_simple",
+      "q": "Who ___ the guitar in your band?",
+      "o": [
+        "plays",
+        "play",
+        "does plays",
+        "do play"
+      ],
+      "a": 0,
+      "e": "When who is the subject we usually do not use do / does: the verb takes -s (Who plays...?).",
+      "fa": "",
+      "id": "d034"
+    },
+    {
+      "type": "mcq",
+      "topic": "pres_simple",
+      "q": "Rita and Angela ___ work at the weekend.",
+      "o": [
+        "don't",
+        "doesn't",
+        "isn't",
+        "aren't"
+      ],
+      "a": 0,
+      "e": "With a plural subject (they) the negative is don't + base verb.",
+      "fa": "",
+      "id": "d035"
+    },
+    {
+      "type": "mcq",
+      "topic": "pres_simple",
+      "q": "The human heart ___ blood around the body.",
+      "o": [
+        "pump",
+        "pumps",
+        "is pumping",
+        "pumped"
+      ],
+      "a": 1,
+      "e": "Something that is always true → present simple. With it the verb takes -s: pumps.",
+      "fa": "",
+      "id": "d036"
+    },
+    {
+      "type": "mcq",
+      "topic": "pres_simple",
+      "q": "The train ___ at 7.45 tomorrow morning.",
+      "o": [
+        "leaves",
+        "leave",
+        "left",
+        "leaving"
+      ],
+      "a": 0,
+      "e": "We use the present simple for fixed timetables, even when they are in the future.",
+      "fa": "",
+      "id": "d037"
+    },
+    {
+      "type": "build",
+      "topic": "pres_simple",
+      "s": "She never plays football.",
+      "fa": "Say that she never plays football.",
+      "x": [
+        "play"
+      ],
+      "e": "Adverbs of frequency (never, always, sometimes) go before the main verb. With she the verb takes -s.",
+      "id": "d038"
+    },
+    {
+      "type": "build",
+      "topic": "pres_simple",
+      "s": "Where do they work?",
+      "fa": "Ask where they work.",
+      "x": [
+        "does"
+      ],
+      "e": "Wh- question: question word + do / does + subject + base verb.",
+      "id": "d039"
+    },
+    {
+      "type": "error",
+      "topic": "pres_simple",
+      "s": "John doesn't lives in Manchester.",
+      "w": 2,
+      "f": "live",
+      "e": "After doesn't the verb is in its base form, without -s.",
+      "id": "d040"
+    },
+    {
+      "type": "error",
+      "topic": "pres_simple",
+      "s": "Does Rita usually gets up early?",
+      "w": 3,
+      "f": "get",
+      "e": "After Does the verb is in its base form, without -s.",
+      "id": "d041"
+    },
+    {
+      "type": "type",
+      "topic": "pres_simple",
+      "q": "If it ___ (rain) tomorrow, we will get wet.",
+      "a": [
+        "rains"
+      ],
+      "e": "After if we use the present simple, even when we talk about the future. With it the verb takes -s.",
+      "id": "d042"
+    },
+    {
+      "type": "match",
+      "topic": "pres_cont",
+      "q": "More -ing forms",
+      "pairs": [
+        [
+          "get",
+          "getting"
+        ],
+        [
+          "begin",
+          "beginning"
+        ],
+        [
+          "have",
+          "having"
+        ],
+        [
+          "come",
+          "coming"
+        ],
+        [
+          "put",
+          "putting"
+        ],
+        [
+          "plan",
+          "planning"
+        ]
+      ],
+      "e": "Drop the final -e (have → having) or double the last letter after a short vowel (get → getting).",
+      "id": "d043"
+    },
+    {
+      "type": "mcq",
+      "topic": "pres_cont",
+      "q": "Be quiet! The students ___ an exam.",
+      "o": [
+        "take",
+        "are taking",
+        "is taking",
+        "takes"
+      ],
+      "a": 1,
+      "e": "An action in progress right now → present continuous: are + V-ing.",
+      "fa": "",
+      "id": "d044"
+    },
+    {
+      "type": "mcq",
+      "topic": "pres_cont",
+      "q": "She ___ her friends tonight. They have arranged it.",
+      "o": [
+        "meets",
+        "is meeting",
+        "meet",
+        "met"
+      ],
+      "a": 1,
+      "e": "A future arrangement → present continuous.",
+      "fa": "",
+      "id": "d045"
+    },
+    {
+      "type": "build",
+      "topic": "pres_cont",
+      "s": "Is she cooking dinner?",
+      "fa": "Ask if she is cooking dinner.",
+      "x": [
+        "does"
+      ],
+      "e": "Question: am / is / are + subject + V-ing?",
+      "id": "d046"
+    },
+    {
+      "type": "build",
+      "topic": "pres_cont",
+      "s": "The children are playing in the garden.",
+      "fa": "Say what the children are doing in the garden.",
+      "x": [
+        "play"
+      ],
+      "e": "Present continuous: are + V-ing.",
+      "id": "d047"
+    },
+    {
+      "type": "build",
+      "topic": "pres_cont",
+      "s": "I am not feeling well today.",
+      "fa": "Say you are not feeling well.",
+      "x": [
+        "feel"
+      ],
+      "e": "Negative: am not + V-ing.",
+      "id": "d048"
+    },
+    {
+      "type": "build",
+      "topic": "pres_cont",
+      "s": "What is he eating?",
+      "fa": "Ask what he is eating.",
+      "x": [
+        "does"
+      ],
+      "e": "Question: Wh- word + is + subject + V-ing?",
+      "id": "d049"
+    },
+    {
+      "type": "build",
+      "topic": "pres_cont",
+      "s": "My parents are staying at a hotel.",
+      "fa": "Say where your parents are staying.",
+      "x": [
+        "stay"
+      ],
+      "e": "Temporary situation → present continuous.",
+      "id": "d050"
+    },
+    {
+      "type": "build",
+      "topic": "pres_cont",
+      "s": "They are building a new school.",
+      "fa": "Say they are building a new school.",
+      "x": [
+        "build"
+      ],
+      "e": "Present continuous: are + V-ing.",
+      "id": "d051"
+    },
+    {
+      "type": "error",
+      "topic": "pres_cont",
+      "s": "She are dancing now.",
+      "w": 1,
+      "f": "is",
+      "e": "With she we use is.",
+      "id": "d052"
+    },
+    {
+      "type": "error",
+      "topic": "pres_cont",
+      "s": "I am not listen to you.",
+      "w": 3,
+      "f": "listening",
+      "e": "After am not the verb takes -ing.",
+      "id": "d053"
+    },
+    {
+      "type": "error",
+      "topic": "pres_cont",
+      "s": "Is they sleeping now?",
+      "w": 0,
+      "f": "Are",
+      "e": "With they the question starts with Are.",
+      "id": "d054"
+    },
+    {
+      "type": "error",
+      "topic": "pres_cont",
+      "s": "The cat is sleep on the sofa.",
+      "w": 3,
+      "f": "sleeping",
+      "e": "After is the verb takes -ing.",
+      "id": "d055"
+    },
+    {
+      "type": "error",
+      "topic": "pres_cont",
+      "s": "We are study English now.",
+      "w": 2,
+      "f": "studying",
+      "e": "After are the verb takes -ing.",
+      "id": "d056"
+    },
+    {
+      "type": "error",
+      "topic": "pres_cont",
+      "s": "Where is you going?",
+      "w": 1,
+      "f": "are",
+      "e": "With you we use are.",
+      "id": "d057"
+    },
+    {
+      "type": "type",
+      "topic": "pres_cont",
+      "q": "My mother ___ (cook) dinner right now.",
+      "a": [
+        "is cooking",
+        "'s cooking"
+      ],
+      "e": "right now → present continuous: is + V-ing.",
+      "id": "d058"
+    },
+    {
+      "type": "type",
+      "topic": "pres_cont",
+      "q": "We ___ (not / watch) TV at the moment.",
+      "a": [
+        "aren't watching",
+        "are not watching",
+        "'re not watching"
+      ],
+      "e": "Negative: are not + V-ing.",
+      "id": "d059"
+    },
+    {
+      "type": "type",
+      "topic": "pres_cont",
+      "q": "The birds ___ (sing) in the trees.",
+      "a": [
+        "are singing",
+        "'re singing"
+      ],
+      "e": "An action in progress now → are + V-ing.",
+      "id": "d060"
+    },
+    {
+      "type": "type",
+      "topic": "pres_cont",
+      "q": "I ___ (wait) for the bus now.",
+      "a": [
+        "am waiting",
+        "'m waiting"
+      ],
+      "e": "With I the auxiliary is am.",
+      "id": "d061"
+    },
+    {
+      "type": "type",
+      "topic": "pres_cont",
+      "q": "She ___ (write) an email at the moment.",
+      "a": [
+        "is writing",
+        "'s writing"
+      ],
+      "e": "at the moment → present continuous.",
+      "id": "d062"
+    },
+    {
+      "type": "type",
+      "topic": "pres_cont",
+      "q": "It ___ (not / rain) now.",
+      "a": [
+        "isn't raining",
+        "is not raining",
+        "'s not raining"
+      ],
+      "e": "Negative: is not + V-ing.",
+      "id": "d063"
+    },
+    {
+      "type": "mcq",
+      "topic": "pres_cont",
+      "q": "Please speak quietly. Dad ___ on the phone.",
+      "o": [
+        "talks",
+        "is talking",
+        "talk",
+        "are talking"
+      ],
+      "a": 1,
+      "e": "An activity at the moment of speaking → present continuous: is + V-ing.",
+      "fa": "",
+      "id": "d064"
+    },
+    {
+      "type": "mcq",
+      "topic": "pres_cont",
+      "q": "___ you listening to me?",
+      "o": [
+        "Do",
+        "Are",
+        "Is",
+        "Does"
+      ],
+      "a": 1,
+      "e": "Present continuous questions put am / is / are before the subject.",
+      "fa": "",
+      "id": "d065"
+    },
+    {
+      "type": "mcq",
+      "topic": "pres_cont",
+      "q": "I ___ to Paris next Friday. I have already booked the ticket.",
+      "o": [
+        "go",
+        "am going",
+        "goes",
+        "went"
+      ],
+      "a": 1,
+      "e": "A fixed arrangement for the future → present continuous.",
+      "fa": "",
+      "id": "d066"
+    },
+    {
+      "type": "mcq",
+      "topic": "pres_cont",
+      "q": "I ___ this song. It is my favourite.",
+      "o": [
+        "am loving",
+        "love",
+        "loving",
+        "loves"
+      ],
+      "a": 1,
+      "e": "Stative verbs (love, like, know, want) are not normally used in the continuous.",
+      "fa": "",
+      "id": "d067"
+    },
+    {
+      "type": "build",
+      "topic": "pres_cont",
+      "s": "He is not working today.",
+      "fa": "Say he is not working today.",
+      "x": [
+        "works"
+      ],
+      "e": "Negative: am / is / are + not + V-ing.",
+      "id": "d068"
+    },
+    {
+      "type": "build",
+      "topic": "pres_cont",
+      "s": "Where are you going?",
+      "fa": "Ask where someone is going.",
+      "x": [
+        "go"
+      ],
+      "e": "Question: question word + am / is / are + subject + V-ing.",
+      "id": "d069"
+    },
+    {
+      "type": "error",
+      "topic": "pres_cont",
+      "s": "They are watch TV now.",
+      "w": 2,
+      "f": "watching",
+      "e": "After am / is / are the verb takes -ing.",
+      "id": "d070"
+    },
+    {
+      "type": "error",
+      "topic": "pres_cont",
+      "s": "We is having lunch now.",
+      "w": 1,
+      "f": "are",
+      "e": "With we we use are: We are having lunch.",
+      "id": "d071"
+    },
+    {
+      "type": "type",
+      "topic": "pres_cont",
+      "q": "At the moment, I ___ (read) a very good book.",
+      "a": [
+        "am reading",
+        "'m reading"
+      ],
+      "e": "Something temporary happening around now → am + V-ing.",
+      "id": "d072"
+    },
+    {
+      "type": "type",
+      "topic": "pres_cont",
+      "q": "Look! It ___ (snow).",
+      "a": [
+        "is snowing",
+        "'s snowing"
+      ],
+      "e": "Look! shows something happening right now → is + V-ing.",
+      "id": "d073"
+    },
+    {
+      "type": "mcq",
+      "topic": "pres_cont",
+      "q": "Look! The baby ___ now.",
+      "o": [
+        "sleeps",
+        "sleep",
+        "is sleeping",
+        "slept"
+      ],
+      "a": 2,
+      "e": "Look and now show that the action is happening right now → present continuous: am / is / are + V-ing.",
+      "fa": "",
+      "id": "d074"
+    },
+    {
+      "type": "mcq",
+      "topic": "pres_cont",
+      "q": "They ___ football at the moment.",
+      "o": [
+        "play",
+        "plays",
+        "are playing",
+        "is playing"
+      ],
+      "a": 2,
+      "e": "at the moment → present continuous. With they we use are + V-ing.",
+      "fa": "",
+      "id": "d075"
+    },
+    {
+      "type": "mcq",
+      "topic": "pres_cont",
+      "q": "I ___ to music right now.",
+      "o": [
+        "listen",
+        "am listening",
+        "listens",
+        "is listening"
+      ],
+      "a": 1,
+      "e": "With I the auxiliary is am: I am listening.",
+      "fa": "",
+      "id": "d076"
+    },
+    {
+      "type": "mcq",
+      "topic": "pres_cont",
+      "q": "What ___ you doing?",
+      "o": [
+        "do",
+        "are",
+        "is",
+        "does"
+      ],
+      "a": 1,
+      "e": "Present continuous question: Wh- word + am / is / are + subject + V-ing.",
+      "fa": "",
+      "id": "d077"
+    },
+    {
+      "type": "build",
+      "topic": "pres_cont",
+      "s": "She is reading a book now.",
+      "fa": "Something is happening right now.",
+      "x": [
+        "reads"
+      ],
+      "e": "Present continuous: subject + am / is / are + V-ing.",
+      "id": "d078"
+    },
+    {
+      "type": "build",
+      "topic": "pres_cont",
+      "s": "We are not watching TV.",
+      "fa": "Say you are not watching TV at the moment.",
+      "x": [
+        "watch"
+      ],
+      "e": "Negative: am / is / are + not + V-ing.",
+      "id": "d079"
+    },
+    {
+      "type": "error",
+      "topic": "pres_cont",
+      "s": "They is playing football now.",
+      "w": 1,
+      "f": "are",
+      "e": "With They we must use are: They are playing.",
+      "id": "d080"
+    },
+    {
+      "type": "error",
+      "topic": "pres_cont",
+      "s": "I am play a game now.",
+      "w": 2,
+      "f": "playing",
+      "e": "After am / is / are the verb takes -ing.",
+      "id": "d081"
+    },
+    {
+      "type": "type",
+      "topic": "pres_cont",
+      "q": "Listen! Someone ___ (knock) at the door.",
+      "a": [
+        "is knocking",
+        "'s knocking"
+      ],
+      "e": "Listen! means right now → present continuous: is + V-ing.",
+      "id": "d082"
+    },
+    {
+      "type": "type",
+      "topic": "pres_cont",
+      "q": "The children ___ (run) in the garden now.",
+      "a": [
+        "are running",
+        "'re running"
+      ],
+      "e": "run → running (the last letter doubles).",
+      "id": "d083"
+    },
+    {
+      "type": "match",
+      "topic": "pres_cont",
+      "q": "Adding -ing",
+      "pairs": [
+        [
+          "run",
+          "running"
+        ],
+        [
+          "make",
+          "making"
+        ],
+        [
+          "swim",
+          "swimming"
+        ],
+        [
+          "write",
+          "writing"
+        ],
+        [
+          "sit",
+          "sitting"
+        ],
+        [
+          "dance",
+          "dancing"
+        ]
+      ],
+      "e": "Drop the final -e (make → making) or double the last letter after a short vowel (run → running).",
+      "id": "d084"
+    },
+    {
+      "type": "mcq",
+      "topic": "past_simple",
+      "q": "He ___ breakfast at seven this morning.",
+      "o": [
+        "has",
+        "had",
+        "have",
+        "having"
+      ],
+      "a": 1,
+      "e": "The past of have is had.",
+      "fa": "",
+      "id": "d085"
+    },
+    {
+      "type": "mcq",
+      "topic": "past_simple",
+      "q": "My parents ___ married in 1998.",
+      "o": [
+        "was",
+        "were",
+        "did",
+        "are"
+      ],
+      "a": 1,
+      "e": "The past of be with a plural subject is were.",
+      "fa": "",
+      "id": "d086"
+    },
+    {
+      "type": "build",
+      "topic": "past_simple",
+      "s": "She wrote a letter to her friend.",
+      "fa": "Say what she wrote.",
+      "x": [
+        "write"
+      ],
+      "e": "write is irregular: the past is wrote.",
+      "id": "d087"
+    },
+    {
+      "type": "build",
+      "topic": "past_simple",
+      "s": "We watched a film last night.",
+      "fa": "Say what you watched last night.",
+      "x": [
+        "watch"
+      ],
+      "e": "Regular past simple: verb + -ed.",
+      "id": "d088"
+    },
+    {
+      "type": "build",
+      "topic": "past_simple",
+      "s": "Did he finish the work?",
+      "fa": "Ask if he finished the work.",
+      "x": [
+        "finished"
+      ],
+      "e": "After Did the verb stays in the base form.",
+      "id": "d089"
+    },
+    {
+      "type": "build",
+      "topic": "past_simple",
+      "s": "I did not hear the phone.",
+      "fa": "Say you did not hear the phone.",
+      "x": [
+        "heard"
+      ],
+      "e": "Negative past: did not + base verb.",
+      "id": "d090"
+    },
+    {
+      "type": "build",
+      "topic": "past_simple",
+      "s": "They arrived at the hotel late.",
+      "fa": "Say they arrived late at the hotel.",
+      "x": [
+        "arrive"
+      ],
+      "e": "Regular past simple: arrive + d.",
+      "id": "d091"
+    },
+    {
+      "type": "build",
+      "topic": "past_simple",
+      "s": "Why did you leave early?",
+      "fa": "Ask why someone left early.",
+      "x": [
+        "left"
+      ],
+      "e": "Question: question word + did + subject + base verb.",
+      "id": "d092"
+    },
+    {
+      "type": "error",
+      "topic": "past_simple",
+      "s": "I seen him yesterday.",
+      "w": 1,
+      "f": "saw",
+      "e": "The past simple of see is saw. seen is the past participle.",
+      "id": "d093"
+    },
+    {
+      "type": "error",
+      "topic": "past_simple",
+      "s": "She didn't went to school.",
+      "w": 2,
+      "f": "go",
+      "e": "After didn't the verb is in its base form.",
+      "id": "d094"
+    },
+    {
+      "type": "error",
+      "topic": "past_simple",
+      "s": "They play football last Sunday.",
+      "w": 1,
+      "f": "played",
+      "e": "last Sunday → past simple: played.",
+      "id": "d095"
+    },
+    {
+      "type": "error",
+      "topic": "past_simple",
+      "s": "Where did you stayed?",
+      "w": 3,
+      "f": "stay",
+      "e": "After did the verb stays in its base form.",
+      "id": "d096"
+    },
+    {
+      "type": "error",
+      "topic": "past_simple",
+      "s": "He taked my bag.",
+      "w": 1,
+      "f": "took",
+      "e": "take is irregular: the past is took.",
+      "id": "d097"
+    },
+    {
+      "type": "error",
+      "topic": "past_simple",
+      "s": "We was at home yesterday.",
+      "w": 1,
+      "f": "were",
+      "e": "With we the past of be is were.",
+      "id": "d098"
+    },
+    {
+      "type": "type",
+      "topic": "past_simple",
+      "q": "She ___ (write) a long email yesterday.",
+      "a": [
+        "wrote"
+      ],
+      "e": "write is irregular: the past is wrote.",
+      "id": "d099"
+    },
+    {
+      "type": "type",
+      "topic": "past_simple",
+      "q": "We ___ (go) to the beach last summer.",
+      "a": [
+        "went"
+      ],
+      "e": "The past of go is went.",
+      "id": "d100"
+    },
+    {
+      "type": "type",
+      "topic": "past_simple",
+      "q": "I ___ (visit) my uncle two days ago.",
+      "a": [
+        "visited"
+      ],
+      "e": "Regular past simple: visit + ed.",
+      "id": "d101"
+    },
+    {
+      "type": "type",
+      "topic": "past_simple",
+      "q": "___ (do) you finish your homework?",
+      "a": [
+        "Did"
+      ],
+      "e": "Past simple questions start with Did.",
+      "id": "d102"
+    },
+    {
+      "type": "type",
+      "topic": "past_simple",
+      "q": "They ___ (not / come) to school on Monday.",
+      "a": [
+        "didn't come",
+        "did not come"
+      ],
+      "e": "Negative past: didn't + base verb.",
+      "id": "d103"
+    },
+    {
+      "type": "type",
+      "topic": "past_simple",
+      "q": "He ___ (buy) a new bike last month.",
+      "a": [
+        "bought"
+      ],
+      "e": "The past of buy is bought.",
+      "id": "d104"
+    },
+    {
+      "type": "mcq",
+      "topic": "past_simple",
+      "q": "I met my best friend two years ___.",
+      "o": [
+        "ago",
+        "before",
+        "last",
+        "since"
+      ],
+      "a": 0,
+      "e": "ago comes after a period of time and is used with the past simple: two years ago.",
+      "fa": "",
+      "id": "d105"
+    },
+    {
+      "type": "mcq",
+      "topic": "past_simple",
+      "q": "Where ___ you buy that jacket?",
+      "o": [
+        "do",
+        "did",
+        "have",
+        "were"
+      ],
+      "a": 1,
+      "e": "Past simple questions use did + subject + base verb.",
+      "fa": "",
+      "id": "d106"
+    },
+    {
+      "type": "mcq",
+      "topic": "past_simple",
+      "q": "Who ___ the window yesterday?",
+      "o": [
+        "broke",
+        "did broke",
+        "breaks",
+        "break"
+      ],
+      "a": 0,
+      "e": "When who is the subject of the question we do not use did: Who broke the window?",
+      "fa": "",
+      "id": "d107"
+    },
+    {
+      "type": "mcq",
+      "topic": "past_simple",
+      "q": "We ___ get home until midnight.",
+      "o": [
+        "didn't",
+        "don't",
+        "weren't",
+        "haven't"
+      ],
+      "a": 0,
+      "e": "Negative past: didn't + base verb.",
+      "fa": "",
+      "id": "d108"
+    },
+    {
+      "type": "build",
+      "topic": "past_simple",
+      "s": "They did not enjoy the film.",
+      "fa": "Say they did not enjoy the film.",
+      "x": [
+        "enjoyed"
+      ],
+      "e": "Negative past: did not + base verb.",
+      "id": "d109"
+    },
+    {
+      "type": "build",
+      "topic": "past_simple",
+      "s": "When did you move to this city?",
+      "fa": "Ask when someone moved to this city.",
+      "x": [
+        "moved"
+      ],
+      "e": "Past simple question: question word + did + subject + base verb.",
+      "id": "d110"
+    },
+    {
+      "type": "error",
+      "topic": "past_simple",
+      "s": "He buyed a new phone last week.",
+      "w": 1,
+      "f": "bought",
+      "e": "buy is irregular and its past is bought.",
+      "id": "d111"
+    },
+    {
+      "type": "error",
+      "topic": "past_simple",
+      "s": "Did she called you last night?",
+      "w": 2,
+      "f": "call",
+      "e": "After Did the verb stays in its base form.",
+      "id": "d112"
+    },
+    {
+      "type": "type",
+      "topic": "past_simple",
+      "q": "My grandparents ___ (live) in Spain for ten years.",
+      "a": [
+        "lived"
+      ],
+      "e": "Something that was true for some time in the past → past simple.",
+      "id": "d113"
+    },
+    {
+      "type": "type",
+      "topic": "past_simple",
+      "q": "I ___ (not / see) you at the party yesterday.",
+      "a": [
+        "didn't see",
+        "did not see"
+      ],
+      "e": "Negative past: didn't + base verb.",
+      "id": "d114"
+    },
+    {
+      "type": "mcq",
+      "topic": "past_simple",
+      "q": "Yesterday we ___ to the zoo.",
+      "o": [
+        "go",
+        "goes",
+        "went",
+        "gone"
+      ],
+      "a": 2,
+      "e": "yesterday means past simple; the past of go is went (irregular).",
+      "fa": "",
+      "id": "d115"
+    },
+    {
+      "type": "mcq",
+      "topic": "past_simple",
+      "q": "I ___ my homework last night.",
+      "o": [
+        "did",
+        "do",
+        "done",
+        "doing"
+      ],
+      "a": 0,
+      "e": "last night → past; the past of do is did.",
+      "fa": "",
+      "id": "d116"
+    },
+    {
+      "type": "mcq",
+      "topic": "past_simple",
+      "q": "She didn't ___ the answer.",
+      "o": [
+        "know",
+        "knew",
+        "knows",
+        "known"
+      ],
+      "a": 0,
+      "e": "After didn't the verb is always in its base form (no -s, no -ed).",
+      "fa": "",
+      "id": "d117"
+    },
+    {
+      "type": "mcq",
+      "topic": "past_simple",
+      "q": "___ you see Ali yesterday?",
+      "o": [
+        "Do",
+        "Does",
+        "Did",
+        "Are"
+      ],
+      "a": 2,
+      "e": "Past simple questions start with Did.",
+      "fa": "",
+      "id": "d118"
+    },
+    {
+      "type": "build",
+      "topic": "past_simple",
+      "s": "I visited my grandmother last week.",
+      "fa": "Say what you did last week.",
+      "x": [
+        "visit"
+      ],
+      "e": "Past simple with a regular verb: verb + -ed.",
+      "id": "d119"
+    },
+    {
+      "type": "build",
+      "topic": "past_simple",
+      "s": "They did not go to school yesterday.",
+      "fa": "Say they did NOT go to school yesterday.",
+      "x": [
+        "went"
+      ],
+      "e": "Negative past: did not + base verb.",
+      "id": "d120"
+    },
+    {
+      "type": "error",
+      "topic": "past_simple",
+      "s": "She goed to the market.",
+      "w": 1,
+      "f": "went",
+      "e": "go is irregular and its past is went, not goed.",
+      "id": "d121"
+    },
+    {
+      "type": "error",
+      "topic": "past_simple",
+      "s": "Did you went there?",
+      "w": 2,
+      "f": "go",
+      "e": "After Did the verb stays in its base form: Did you go there?",
+      "id": "d122"
+    },
+    {
+      "type": "type",
+      "topic": "past_simple",
+      "q": "We ___ (eat) pizza last Friday.",
+      "a": [
+        "ate"
+      ],
+      "e": "The past of eat is ate.",
+      "id": "d123"
+    },
+    {
+      "type": "type",
+      "topic": "past_simple",
+      "q": "He ___ (not / like) the movie yesterday.",
+      "a": [
+        "didn't like",
+        "did not like"
+      ],
+      "e": "Negative past: didn't + base verb.",
+      "id": "d124"
+    },
+    {
+      "type": "match",
+      "topic": "past_simple",
+      "q": "Irregular verbs — 1",
+      "pairs": [
+        [
+          "go",
+          "went"
+        ],
+        [
+          "see",
+          "saw"
+        ],
+        [
+          "eat",
+          "ate"
+        ],
+        [
+          "take",
+          "took"
+        ],
+        [
+          "buy",
+          "bought"
+        ],
+        [
+          "write",
+          "wrote"
+        ]
+      ],
+      "e": "The past forms of these verbs are irregular and must be memorised.",
+      "id": "d125"
+    },
+    {
+      "type": "match",
+      "topic": "past_simple",
+      "q": "Irregular verbs — 2",
+      "pairs": [
+        [
+          "come",
+          "came"
+        ],
+        [
+          "make",
+          "made"
+        ],
+        [
+          "give",
+          "gave"
+        ],
+        [
+          "drink",
+          "drank"
+        ],
+        [
+          "run",
+          "ran"
+        ],
+        [
+          "swim",
+          "swam"
+        ]
+      ],
+      "e": "The past forms of these verbs are irregular and must be memorised.",
+      "id": "d126"
+    },
+    {
+      "type": "match",
+      "topic": "past_cont",
+      "q": "Spelling: more -ing forms",
+      "pairs": [
+        [
+          "hop",
+          "hopping"
+        ],
+        [
+          "tie",
+          "tying"
+        ],
+        [
+          "wave",
+          "waving"
+        ],
+        [
+          "drop",
+          "dropping"
+        ],
+        [
+          "take",
+          "taking"
+        ],
+        [
+          "skip",
+          "skipping"
+        ]
+      ],
+      "e": "Drop the final -e, double the last letter, or change -ie to -ying.",
+      "id": "d127"
+    },
+    {
+      "type": "mcq",
+      "topic": "past_cont",
+      "q": "The children ___ in the park when it began to rain.",
+      "o": [
+        "play",
+        "were playing",
+        "was playing",
+        "played"
+      ],
+      "a": 1,
+      "e": "An action in progress when something happened → were + V-ing.",
+      "fa": "",
+      "id": "d128"
+    },
+    {
+      "type": "mcq",
+      "topic": "past_cont",
+      "q": "___ it raining when you left home?",
+      "o": [
+        "Was",
+        "Were",
+        "Did",
+        "Is"
+      ],
+      "a": 0,
+      "e": "With it the past continuous uses was. Questions start with Was / Were.",
+      "fa": "",
+      "id": "d129"
+    },
+    {
+      "type": "build",
+      "topic": "past_cont",
+      "s": "She was cooking dinner at six.",
+      "fa": "Say what she was doing at six.",
+      "x": [
+        "cooked"
+      ],
+      "e": "Past continuous: was + V-ing.",
+      "id": "d130"
+    },
+    {
+      "type": "build",
+      "topic": "past_cont",
+      "s": "Were they sleeping at midnight?",
+      "fa": "Ask if they were sleeping at midnight.",
+      "x": [
+        "was"
+      ],
+      "e": "Question: Was / Were + subject + V-ing?",
+      "id": "d131"
+    },
+    {
+      "type": "build",
+      "topic": "past_cont",
+      "s": "I was not paying attention.",
+      "fa": "Say you were not paying attention.",
+      "x": [
+        "pay"
+      ],
+      "e": "Negative: was not + V-ing.",
+      "id": "d132"
+    },
+    {
+      "type": "build",
+      "topic": "past_cont",
+      "s": "The phone rang while we were eating.",
+      "fa": "Say the phone rang during your meal.",
+      "x": [
+        "ate"
+      ],
+      "e": "while + past continuous: the longer action in progress.",
+      "id": "d133"
+    },
+    {
+      "type": "build",
+      "topic": "past_cont",
+      "s": "He was waiting for the bus.",
+      "fa": "Say he was waiting for the bus.",
+      "x": [
+        "waited"
+      ],
+      "e": "Past continuous: was + V-ing.",
+      "id": "d134"
+    },
+    {
+      "type": "build",
+      "topic": "past_cont",
+      "s": "We were playing outside all afternoon.",
+      "fa": "Say you were playing outside the whole afternoon.",
+      "x": [
+        "played"
+      ],
+      "e": "The past continuous can show an activity in progress for some time.",
+      "id": "d135"
+    },
+    {
+      "type": "error",
+      "topic": "past_cont",
+      "s": "I were studying at eight.",
+      "w": 1,
+      "f": "was",
+      "e": "With I the past of be is was.",
+      "id": "d136"
+    },
+    {
+      "type": "error",
+      "topic": "past_cont",
+      "s": "She was cook when I arrived.",
+      "w": 2,
+      "f": "cooking",
+      "e": "After was / were the verb takes -ing.",
+      "id": "d137"
+    },
+    {
+      "type": "error",
+      "topic": "past_cont",
+      "s": "Was you watching TV?",
+      "w": 0,
+      "f": "Were",
+      "e": "With you we use were.",
+      "id": "d138"
+    },
+    {
+      "type": "error",
+      "topic": "past_cont",
+      "s": "They wasn't listening.",
+      "w": 1,
+      "f": "weren't",
+      "e": "With they we use were.",
+      "id": "d139"
+    },
+    {
+      "type": "error",
+      "topic": "past_cont",
+      "s": "He was sleep while I was working.",
+      "w": 2,
+      "f": "sleeping",
+      "e": "After was the verb takes -ing.",
+      "id": "d140"
+    },
+    {
+      "type": "error",
+      "topic": "past_cont",
+      "s": "We were play football at five.",
+      "w": 2,
+      "f": "playing",
+      "e": "After were the verb takes -ing.",
+      "id": "d141"
+    },
+    {
+      "type": "type",
+      "topic": "past_cont",
+      "q": "I ___ (sleep) when the alarm rang.",
+      "a": [
+        "was sleeping"
+      ],
+      "e": "An action in progress when another action happened → was + V-ing.",
+      "id": "d142"
+    },
+    {
+      "type": "type",
+      "topic": "past_cont",
+      "q": "They ___ (walk) home when it started to rain.",
+      "a": [
+        "were walking"
+      ],
+      "e": "With they we use were + V-ing.",
+      "id": "d143"
+    },
+    {
+      "type": "type",
+      "topic": "past_cont",
+      "q": "She ___ (not / listen) to the teacher.",
+      "a": [
+        "wasn't listening",
+        "was not listening"
+      ],
+      "e": "Negative: wasn't + V-ing.",
+      "id": "d144"
+    },
+    {
+      "type": "type",
+      "topic": "past_cont",
+      "q": "___ (be) you studying at 10 pm?",
+      "a": [
+        "Were"
+      ],
+      "e": "With you the past continuous uses Were.",
+      "id": "d145"
+    },
+    {
+      "type": "type",
+      "topic": "past_cont",
+      "q": "My dad ___ (drive) to work when he saw an accident.",
+      "a": [
+        "was driving"
+      ],
+      "e": "Longer action → past continuous; the short action (saw) → past simple.",
+      "id": "d146"
+    },
+    {
+      "type": "type",
+      "topic": "past_cont",
+      "q": "We ___ (have) dinner when the guests arrived.",
+      "a": [
+        "were having"
+      ],
+      "e": "An action in progress when another action happened → were + V-ing.",
+      "id": "d147"
+    },
+    {
+      "type": "mcq",
+      "topic": "past_cont",
+      "q": "What ___ you doing at half past six yesterday?",
+      "o": [
+        "was",
+        "were",
+        "did",
+        "are"
+      ],
+      "a": 1,
+      "e": "With you the past continuous uses were: What were you doing...?",
+      "fa": "",
+      "id": "d148"
+    },
+    {
+      "type": "mcq",
+      "topic": "past_cont",
+      "q": "My sister ___ a video when the internet stopped.",
+      "o": [
+        "watched",
+        "was watching",
+        "were watching",
+        "watches"
+      ],
+      "a": 1,
+      "e": "A longer action in progress (past continuous) is interrupted by a shorter action (past simple).",
+      "fa": "",
+      "id": "d149"
+    },
+    {
+      "type": "mcq",
+      "topic": "past_cont",
+      "q": "I cut my finger while I ___ vegetables.",
+      "o": [
+        "chopped",
+        "was chopping",
+        "chop",
+        "am chopping"
+      ],
+      "a": 1,
+      "e": "while + past continuous: the chopping was in progress when the accident happened.",
+      "fa": "",
+      "id": "d150"
+    },
+    {
+      "type": "mcq",
+      "topic": "past_cont",
+      "q": "I called Tom, but he didn't answer. He ___ a shower.",
+      "o": [
+        "took",
+        "was taking",
+        "takes",
+        "were taking"
+      ],
+      "a": 1,
+      "e": "An action that was in progress at that moment → was + V-ing.",
+      "fa": "",
+      "id": "d151"
+    },
+    {
+      "type": "build",
+      "topic": "past_cont",
+      "s": "What were you doing at nine?",
+      "fa": "Ask what someone was doing at nine.",
+      "x": [
+        "did"
+      ],
+      "e": "Question: What + was / were + subject + V-ing?",
+      "id": "d152"
+    },
+    {
+      "type": "build",
+      "topic": "past_cont",
+      "s": "It was raining when we left.",
+      "fa": "Say what the weather was doing when you left.",
+      "x": [
+        "rained"
+      ],
+      "e": "Past continuous for the background action, past simple for the short action.",
+      "id": "d153"
+    },
+    {
+      "type": "error",
+      "topic": "past_cont",
+      "s": "I was walk to school when it started to rain.",
+      "w": 2,
+      "f": "walking",
+      "e": "After was / were the verb takes -ing.",
+      "id": "d154"
+    },
+    {
+      "type": "error",
+      "topic": "past_cont",
+      "s": "They was watching a film at ten.",
+      "w": 1,
+      "f": "were",
+      "e": "With they we use were, not was.",
+      "id": "d155"
+    },
+    {
+      "type": "type",
+      "topic": "past_cont",
+      "q": "We ___ (play) cards when the lights went out.",
+      "a": [
+        "were playing"
+      ],
+      "e": "An action in progress that was interrupted → were + V-ing.",
+      "id": "d156"
+    },
+    {
+      "type": "type",
+      "topic": "past_cont",
+      "q": "It ___ (not / snow) when I looked outside.",
+      "a": [
+        "wasn't snowing",
+        "was not snowing"
+      ],
+      "e": "Negative: wasn't + V-ing.",
+      "id": "d157"
+    },
+    {
+      "type": "mcq",
+      "topic": "past_cont",
+      "q": "I ___ TV when you called.",
+      "o": [
+        "watched",
+        "was watching",
+        "were watching",
+        "am watching"
+      ],
+      "a": 1,
+      "e": "An action in progress at a moment in the past → was / were + V-ing. With I we use was.",
+      "fa": "",
+      "id": "d158"
+    },
+    {
+      "type": "mcq",
+      "topic": "past_cont",
+      "q": "They ___ football at five o'clock yesterday.",
+      "o": [
+        "were playing",
+        "was playing",
+        "played",
+        "are playing"
+      ],
+      "a": 0,
+      "e": "A specific time in the past → past continuous. With they we use were.",
+      "fa": "",
+      "id": "d159"
+    },
+    {
+      "type": "mcq",
+      "topic": "past_cont",
+      "q": "While she ___, the phone rang.",
+      "o": [
+        "cooked",
+        "was cooking",
+        "were cooking",
+        "cooks"
+      ],
+      "a": 1,
+      "e": "while + past continuous shows the longer action that was in progress.",
+      "fa": "",
+      "id": "d160"
+    },
+    {
+      "type": "mcq",
+      "topic": "past_cont",
+      "q": "___ you sleeping when I came home?",
+      "o": [
+        "Was",
+        "Were",
+        "Did",
+        "Do"
+      ],
+      "a": 1,
+      "e": "With you the past continuous uses were.",
+      "fa": "",
+      "id": "d161"
+    },
+    {
+      "type": "build",
+      "topic": "past_cont",
+      "s": "I was reading a book at eight.",
+      "fa": "Say what you were doing at eight.",
+      "x": [
+        "am"
+      ],
+      "e": "Past continuous: subject + was / were + V-ing.",
+      "id": "d162"
+    },
+    {
+      "type": "build",
+      "topic": "past_cont",
+      "s": "They were not listening to the teacher.",
+      "fa": "Say they were not listening to the teacher.",
+      "x": [
+        "was"
+      ],
+      "e": "Negative: was / were + not + V-ing.",
+      "id": "d163"
+    },
+    {
+      "type": "error",
+      "topic": "past_cont",
+      "s": "She were sleeping when I called.",
+      "w": 1,
+      "f": "was",
+      "e": "With she / he / it / I we use was, not were.",
+      "id": "d164"
+    },
+    {
+      "type": "error",
+      "topic": "past_cont",
+      "s": "We was walking in the park.",
+      "w": 1,
+      "f": "were",
+      "e": "With we / you / they we use were, not was.",
+      "id": "d165"
+    },
+    {
+      "type": "type",
+      "topic": "past_cont",
+      "q": "He ___ (study) when the light went out.",
+      "a": [
+        "was studying"
+      ],
+      "e": "An action in progress when another action interrupted → was + V-ing.",
+      "id": "d166"
+    },
+    {
+      "type": "type",
+      "topic": "past_cont",
+      "q": "My parents ___ (not / watch) TV at that time.",
+      "a": [
+        "were not watching",
+        "weren't watching"
+      ],
+      "e": "Negative: weren't + V-ing.",
+      "id": "d167"
+    },
+    {
+      "type": "match",
+      "topic": "past_cont",
+      "q": "Adding -ing (spelling)",
+      "pairs": [
+        [
+          "lie",
+          "lying"
+        ],
+        [
+          "die",
+          "dying"
+        ],
+        [
+          "stop",
+          "stopping"
+        ],
+        [
+          "plan",
+          "planning"
+        ],
+        [
+          "cut",
+          "cutting"
+        ],
+        [
+          "use",
+          "using"
+        ]
+      ],
+      "e": "Words ending in -ie change to -ying; short-vowel words double the last letter; words ending in -e drop the e.",
+      "id": "d168"
+    },
+    {
+      "type": "mcq",
+      "topic": "perfect",
+      "q": "She ___ in Tehran for ten years.",
+      "o": [
+        "lives",
+        "has lived",
+        "lived",
+        "is living"
+      ],
+      "a": 1,
+      "e": "for + a period of time up to now → present perfect.",
+      "fa": "",
+      "id": "d169"
+    },
+    {
+      "type": "mcq",
+      "topic": "perfect",
+      "q": "I haven't seen him ___ Monday.",
+      "o": [
+        "for",
+        "since",
+        "ago",
+        "from"
+      ],
+      "a": 1,
+      "e": "since + a point in time (Monday) → present perfect.",
+      "fa": "",
+      "id": "d170"
+    },
+    {
+      "type": "build",
+      "topic": "perfect",
+      "s": "She has just finished her homework.",
+      "fa": "Say she finished her homework a moment ago.",
+      "x": [
+        "finish"
+      ],
+      "e": "just goes between has / have and the past participle.",
+      "id": "d171"
+    },
+    {
+      "type": "build",
+      "topic": "perfect",
+      "s": "Has he ever visited London?",
+      "fa": "Ask if he has ever visited London.",
+      "x": [
+        "visit"
+      ],
+      "e": "Question: Has / Have + subject + ever + past participle?",
+      "id": "d172"
+    },
+    {
+      "type": "build",
+      "topic": "perfect",
+      "s": "They have lived in Shiraz since 2015.",
+      "fa": "Say since when they have lived in Shiraz.",
+      "x": [
+        "live"
+      ],
+      "e": "since + a point in time → present perfect.",
+      "id": "d173"
+    },
+    {
+      "type": "build",
+      "topic": "perfect",
+      "s": "I have not finished my work yet.",
+      "fa": "Say you have not finished your work.",
+      "x": [
+        "did"
+      ],
+      "e": "yet is used with negatives in the present perfect.",
+      "id": "d174"
+    },
+    {
+      "type": "build",
+      "topic": "perfect",
+      "s": "We have known each other for years.",
+      "fa": "Say you have known each other for a long time.",
+      "x": [
+        "knew"
+      ],
+      "e": "for + a period of time → present perfect.",
+      "id": "d175"
+    },
+    {
+      "type": "build",
+      "topic": "perfect",
+      "s": "How long have you studied English?",
+      "fa": "Ask how long someone has studied English.",
+      "x": [
+        "has"
+      ],
+      "e": "How long + have / has + subject + past participle?",
+      "id": "d176"
+    },
+    {
+      "type": "error",
+      "topic": "perfect",
+      "s": "She have been to Italy twice.",
+      "w": 1,
+      "f": "has",
+      "e": "With she we use has.",
+      "id": "d177"
+    },
+    {
+      "type": "error",
+      "topic": "perfect",
+      "s": "I have eat lunch already.",
+      "w": 2,
+      "f": "eaten",
+      "e": "After have we use the past participle: eaten.",
+      "id": "d178"
+    },
+    {
+      "type": "error",
+      "topic": "perfect",
+      "s": "Have you ever see a whale?",
+      "w": 3,
+      "f": "seen",
+      "e": "After have we use the past participle: seen.",
+      "id": "d179"
+    },
+    {
+      "type": "error",
+      "topic": "perfect",
+      "s": "He has lived here since three years.",
+      "w": 4,
+      "f": "for",
+      "e": "for + a period of time (three years); since + a point in time.",
+      "id": "d180"
+    },
+    {
+      "type": "error",
+      "topic": "perfect",
+      "s": "They has just arrived.",
+      "w": 1,
+      "f": "have",
+      "e": "With they we use have.",
+      "id": "d181"
+    },
+    {
+      "type": "error",
+      "topic": "perfect",
+      "s": "We haven't finish yet.",
+      "w": 2,
+      "f": "finished",
+      "e": "After haven't we use the past participle: finished.",
+      "id": "d182"
+    },
+    {
+      "type": "type",
+      "topic": "perfect",
+      "q": "She has ___ (finish) her homework.",
+      "a": [
+        "finished"
+      ],
+      "e": "Past participle of a regular verb: finish + ed.",
+      "id": "d183"
+    },
+    {
+      "type": "type",
+      "topic": "perfect",
+      "q": "We have ___ (be) friends since 2010.",
+      "a": [
+        "been"
+      ],
+      "e": "The past participle of be is been.",
+      "id": "d184"
+    },
+    {
+      "type": "type",
+      "topic": "perfect",
+      "q": "He has ___ (break) his phone.",
+      "a": [
+        "broken"
+      ],
+      "e": "The past participle of break is broken.",
+      "id": "d185"
+    },
+    {
+      "type": "type",
+      "topic": "perfect",
+      "q": "I ___ (live) here for two years.",
+      "a": [
+        "have lived",
+        "'ve lived"
+      ],
+      "e": "for + a period of time → present perfect.",
+      "id": "d186"
+    },
+    {
+      "type": "type",
+      "topic": "perfect",
+      "q": "They ___ (not / see) this film yet.",
+      "a": [
+        "haven't seen",
+        "have not seen"
+      ],
+      "e": "Negative present perfect: haven't + past participle.",
+      "id": "d187"
+    },
+    {
+      "type": "type",
+      "topic": "perfect",
+      "q": "She has ___ (take) three photos today.",
+      "a": [
+        "taken"
+      ],
+      "e": "The past participle of take is taken.",
+      "id": "d188"
+    },
+    {
+      "type": "mcq",
+      "topic": "perfect",
+      "q": "I ___ my keys, so I can't open the door.",
+      "o": [
+        "lost",
+        "have lost",
+        "lose",
+        "am losing"
+      ],
+      "a": 1,
+      "e": "A past action with a result in the present (no keys now) → present perfect.",
+      "fa": "",
+      "id": "d189"
+    },
+    {
+      "type": "mcq",
+      "topic": "perfect",
+      "q": "Have you finished your homework ___?",
+      "o": [
+        "yet",
+        "ago",
+        "last night",
+        "when"
+      ],
+      "a": 0,
+      "e": "yet is used in questions and negatives with the present perfect.",
+      "fa": "",
+      "id": "d190"
+    },
+    {
+      "type": "mcq",
+      "topic": "perfect",
+      "q": "We ___ in this house since 2018.",
+      "o": [
+        "live",
+        "lived",
+        "have lived",
+        "are living"
+      ],
+      "a": 2,
+      "e": "since + a starting point in time → present perfect.",
+      "fa": "",
+      "id": "d191"
+    },
+    {
+      "type": "mcq",
+      "topic": "perfect",
+      "q": "I ___ Paris in 2019.",
+      "o": [
+        "have visited",
+        "visited",
+        "visit",
+        "am visiting"
+      ],
+      "a": 1,
+      "e": "With a finished time (in 2019) we use the past simple, not the present perfect.",
+      "fa": "",
+      "id": "d192"
+    },
+    {
+      "type": "build",
+      "topic": "perfect",
+      "s": "Have you ever eaten Persian food?",
+      "fa": "Ask if someone has ever eaten Persian food.",
+      "x": [
+        "ate"
+      ],
+      "e": "Experience: Have + subject + ever + past participle?",
+      "id": "d193"
+    },
+    {
+      "type": "build",
+      "topic": "perfect",
+      "s": "We have not seen him today.",
+      "fa": "Say you have not seen him today.",
+      "x": [
+        "saw"
+      ],
+      "e": "today is an unfinished time → present perfect: have not + past participle.",
+      "id": "d194"
+    },
+    {
+      "type": "error",
+      "topic": "perfect",
+      "s": "I have went to the shop this morning.",
+      "w": 2,
+      "f": "gone",
+      "e": "The past participle of go is gone; went is the past simple.",
+      "id": "d195"
+    },
+    {
+      "type": "error",
+      "topic": "perfect",
+      "s": "She has live here since 2015.",
+      "w": 2,
+      "f": "lived",
+      "e": "After has / have we need the past participle: lived.",
+      "id": "d196"
+    },
+    {
+      "type": "type",
+      "topic": "perfect",
+      "q": "I have never ___ (see) snow.",
+      "a": [
+        "seen"
+      ],
+      "e": "never + have + past participle: seen.",
+      "id": "d197"
+    },
+    {
+      "type": "type",
+      "topic": "perfect",
+      "q": "They ___ (just / arrive) at the station.",
+      "a": [
+        "have just arrived",
+        "'ve just arrived"
+      ],
+      "e": "just goes between have and the past participle.",
+      "id": "d198"
+    },
+    {
+      "type": "mcq",
+      "topic": "perfect",
+      "q": "I ___ already finished my homework.",
+      "o": [
+        "have",
+        "has",
+        "am",
+        "did"
+      ],
+      "a": 0,
+      "e": "With I we use have: I have finished.",
+      "fa": "",
+      "id": "d199"
+    },
+    {
+      "type": "mcq",
+      "topic": "perfect",
+      "q": "She has ___ to Paris twice.",
+      "o": [
+        "be",
+        "was",
+        "been",
+        "being"
+      ],
+      "a": 2,
+      "e": "have / has + past participle. The past participle of be is been.",
+      "fa": "",
+      "id": "d200"
+    },
+    {
+      "type": "mcq",
+      "topic": "perfect",
+      "q": "We ___ lived here since 2020.",
+      "o": [
+        "have",
+        "has",
+        "did",
+        "are"
+      ],
+      "a": 0,
+      "e": "since + a point in time → present perfect; with we the auxiliary is have.",
+      "fa": "",
+      "id": "d201"
+    },
+    {
+      "type": "mcq",
+      "topic": "perfect",
+      "q": "___ you ever eaten sushi?",
+      "o": [
+        "Do",
+        "Did",
+        "Have",
+        "Are"
+      ],
+      "a": 2,
+      "e": "Present perfect questions start with Have / Has: Have you ever...?",
+      "fa": "",
+      "id": "d202"
+    },
+    {
+      "type": "build",
+      "topic": "perfect",
+      "s": "I have never seen a tiger.",
+      "fa": "Say you have never seen a tiger.",
+      "x": [
+        "saw"
+      ],
+      "e": "have + never + past participle (seen).",
+      "id": "d203"
+    },
+    {
+      "type": "build",
+      "topic": "perfect",
+      "s": "She has lived here for five years.",
+      "fa": "Say how long she has lived here.",
+      "x": [
+        "have"
+      ],
+      "e": "for + a period of time → present perfect.",
+      "id": "d204"
+    },
+    {
+      "type": "error",
+      "topic": "perfect",
+      "s": "He have finished his work.",
+      "w": 1,
+      "f": "has",
+      "e": "With He (third person singular) we need has.",
+      "id": "d205"
+    },
+    {
+      "type": "error",
+      "topic": "perfect",
+      "s": "I have saw that film.",
+      "w": 2,
+      "f": "seen",
+      "e": "After have we use the past participle: seen, not saw.",
+      "id": "d206"
+    },
+    {
+      "type": "type",
+      "topic": "perfect",
+      "q": "They have just ___ (arrive) at the airport.",
+      "a": [
+        "arrived"
+      ],
+      "e": "Past participle of a regular verb: arrive + d → arrived.",
+      "id": "d207"
+    },
+    {
+      "type": "type",
+      "topic": "perfect",
+      "q": "She has ___ (write) three letters.",
+      "a": [
+        "written"
+      ],
+      "e": "The past participle of write is written.",
+      "id": "d208"
+    },
+    {
+      "type": "match",
+      "topic": "perfect",
+      "q": "Past participles — 1",
+      "pairs": [
+        [
+          "go",
+          "gone"
+        ],
+        [
+          "see",
+          "seen"
+        ],
+        [
+          "eat",
+          "eaten"
+        ],
+        [
+          "take",
+          "taken"
+        ],
+        [
+          "write",
+          "written"
+        ],
+        [
+          "break",
+          "broken"
+        ]
+      ],
+      "e": "Irregular past participles must be memorised.",
+      "id": "d209"
+    },
+    {
+      "type": "match",
+      "topic": "perfect",
+      "q": "Past participles — 2",
+      "pairs": [
+        [
+          "do",
+          "done"
+        ],
+        [
+          "be",
+          "been"
+        ],
+        [
+          "give",
+          "given"
+        ],
+        [
+          "know",
+          "known"
+        ],
+        [
+          "speak",
+          "spoken"
+        ],
+        [
+          "drive",
+          "driven"
+        ]
+      ],
+      "e": "Irregular past participles must be memorised.",
+      "id": "d210"
+    },
+    {
+      "type": "match",
+      "topic": "fut_will",
+      "q": "Short forms of will (more)",
+      "pairs": [
+        [
+          "it will",
+          "it'll"
+        ],
+        [
+          "she will",
+          "she'll"
+        ],
+        [
+          "we will not",
+          "we won't"
+        ],
+        [
+          "I will not",
+          "I won't"
+        ],
+        [
+          "they will not",
+          "they won't"
+        ],
+        [
+          "you will not",
+          "you won't"
+        ]
+      ],
+      "e": "In speaking we usually use the short forms.",
+      "id": "d211"
+    },
+    {
+      "type": "mcq",
+      "topic": "fut_will",
+      "q": "I'm hungry. I ___ make a sandwich.",
+      "o": [
+        "will",
+        "am going to",
+        "make",
+        "made"
+      ],
+      "a": 0,
+      "e": "A spontaneous decision at the moment of speaking → will.",
+      "fa": "",
+      "id": "d212"
+    },
+    {
+      "type": "mcq",
+      "topic": "fut_will",
+      "q": "We ___ be late. I promise.",
+      "o": [
+        "won't",
+        "will",
+        "are",
+        "do"
+      ],
+      "a": 0,
+      "e": "A promise about the future: won't (will not) + base verb.",
+      "fa": "",
+      "id": "d213"
+    },
+    {
+      "type": "build",
+      "topic": "fut_will",
+      "s": "I will help you with the bags.",
+      "fa": "Offer to help with the bags.",
+      "x": [
+        "helping"
+      ],
+      "e": "An offer → will + base verb.",
+      "id": "d214"
+    },
+    {
+      "type": "build",
+      "topic": "fut_will",
+      "s": "She will not forget your birthday.",
+      "fa": "Promise that she will not forget your birthday.",
+      "x": [
+        "forgets"
+      ],
+      "e": "Negative: will not + base verb.",
+      "id": "d215"
+    },
+    {
+      "type": "build",
+      "topic": "fut_will",
+      "s": "Will you open the door, please?",
+      "fa": "Ask someone politely to open the door.",
+      "x": [
+        "opens"
+      ],
+      "e": "A request: Will you + base verb...?",
+      "id": "d216"
+    },
+    {
+      "type": "build",
+      "topic": "fut_will",
+      "s": "I think it will be cold tomorrow.",
+      "fa": "Say what you think about tomorrow's weather.",
+      "x": [
+        "is"
+      ],
+      "e": "An opinion about the future → will + base verb.",
+      "id": "d217"
+    },
+    {
+      "type": "build",
+      "topic": "fut_will",
+      "s": "They will win the game, I think.",
+      "fa": "Say you think they will win the game.",
+      "x": [
+        "wins"
+      ],
+      "e": "A prediction → will + base verb.",
+      "id": "d218"
+    },
+    {
+      "type": "build",
+      "topic": "fut_will",
+      "s": "Wait here until I come back.",
+      "fa": "Tell someone to wait until you come back.",
+      "x": [
+        "will"
+      ],
+      "e": "After until we use the present simple for the future.",
+      "id": "d219"
+    },
+    {
+      "type": "error",
+      "topic": "fut_will",
+      "s": "It will raining tomorrow.",
+      "w": 2,
+      "f": "rain",
+      "e": "After will the verb is in its base form.",
+      "id": "d220"
+    },
+    {
+      "type": "error",
+      "topic": "fut_will",
+      "s": "Will she comes to the party?",
+      "w": 2,
+      "f": "come",
+      "e": "After Will + subject the verb is in its base form.",
+      "id": "d221"
+    },
+    {
+      "type": "error",
+      "topic": "fut_will",
+      "s": "I will not to tell anyone.",
+      "w": 3,
+      "f": "",
+      "e": "After will not the base verb follows directly, without to.",
+      "id": "d222"
+    },
+    {
+      "type": "error",
+      "topic": "fut_will",
+      "s": "He won't goes with us.",
+      "w": 2,
+      "f": "go",
+      "e": "After won't the verb is in its base form.",
+      "id": "d223"
+    },
+    {
+      "type": "error",
+      "topic": "fut_will",
+      "s": "I'll call you when I will arrive.",
+      "w": 5,
+      "f": "",
+      "e": "After when we use the present simple for the future.",
+      "id": "d224"
+    },
+    {
+      "type": "error",
+      "topic": "fut_will",
+      "s": "We will meeting him tomorrow.",
+      "w": 2,
+      "f": "meet",
+      "e": "After will the verb is in its base form.",
+      "id": "d225"
+    },
+    {
+      "type": "type",
+      "topic": "fut_will",
+      "q": "Don't worry. She ___ (be) fine.",
+      "a": [
+        "will be",
+        "'ll be"
+      ],
+      "e": "A belief about the future → will + base verb.",
+      "id": "d226"
+    },
+    {
+      "type": "type",
+      "topic": "fut_will",
+      "q": "I ___ (not / tell) anyone your secret.",
+      "a": [
+        "won't tell",
+        "will not tell"
+      ],
+      "e": "A promise → will. Negative: won't + base verb.",
+      "id": "d227"
+    },
+    {
+      "type": "type",
+      "topic": "fut_will",
+      "q": "___ (will) you open the window, please?",
+      "a": [
+        "Will"
+      ],
+      "e": "Requests can start with Will you...?",
+      "id": "d228"
+    },
+    {
+      "type": "type",
+      "topic": "fut_will",
+      "q": "I think they ___ (win) the match.",
+      "a": [
+        "will win",
+        "'ll win"
+      ],
+      "e": "An opinion about the future → will + base verb.",
+      "id": "d229"
+    },
+    {
+      "type": "type",
+      "topic": "fut_will",
+      "q": "I ___ (call) you when I get home.",
+      "a": [
+        "will call",
+        "'ll call"
+      ],
+      "e": "A promise → will + base verb.",
+      "id": "d230"
+    },
+    {
+      "type": "type",
+      "topic": "fut_will",
+      "q": "We ___ (be) late if we don't hurry.",
+      "a": [
+        "will be",
+        "'ll be"
+      ],
+      "e": "First conditional result: will + base verb.",
+      "id": "d231"
+    },
+    {
+      "type": "mcq",
+      "topic": "fut_will",
+      "q": "I'm sure Sara ___ love the gift.",
+      "o": [
+        "will",
+        "is",
+        "does",
+        "has"
+      ],
+      "a": 0,
+      "e": "A belief about the future (I'm sure) → will + base verb.",
+      "fa": "",
+      "id": "d232"
+    },
+    {
+      "type": "mcq",
+      "topic": "fut_will",
+      "q": "The phone is ringing. I ___ answer it.",
+      "o": [
+        "will",
+        "am going to",
+        "answer",
+        "answered"
+      ],
+      "a": 0,
+      "e": "A spontaneous decision at the moment of speaking → will.",
+      "fa": "",
+      "id": "d233"
+    },
+    {
+      "type": "mcq",
+      "topic": "fut_will",
+      "q": "___ you help me with my bag, please?",
+      "o": [
+        "Will",
+        "Are",
+        "Does",
+        "Have"
+      ],
+      "a": 0,
+      "e": "Will you...? is a common way to make a request.",
+      "fa": "",
+      "id": "d234"
+    },
+    {
+      "type": "mcq",
+      "topic": "fut_will",
+      "q": "I will call you when I ___ home.",
+      "o": [
+        "get",
+        "will get",
+        "got",
+        "am getting"
+      ],
+      "a": 0,
+      "e": "After when / until / after we use the present simple for the future, not will.",
+      "fa": "",
+      "id": "d235"
+    },
+    {
+      "type": "build",
+      "topic": "fut_will",
+      "s": "Will it rain tomorrow?",
+      "fa": "Ask if you think it will rain tomorrow.",
+      "x": [
+        "rains"
+      ],
+      "e": "Question with will: Will + subject + base verb?",
+      "id": "d236"
+    },
+    {
+      "type": "build",
+      "topic": "fut_will",
+      "s": "We will not be late.",
+      "fa": "Promise that you will not be late.",
+      "x": [
+        "are"
+      ],
+      "e": "Negative: will not + base verb.",
+      "id": "d237"
+    },
+    {
+      "type": "error",
+      "topic": "fut_will",
+      "s": "She will arrives at six.",
+      "w": 2,
+      "f": "arrive",
+      "e": "After will the verb is in its base form, without -s.",
+      "id": "d238"
+    },
+    {
+      "type": "error",
+      "topic": "fut_will",
+      "s": "I will phone you when I will get home.",
+      "w": 6,
+      "f": "",
+      "e": "After when we use the present simple for the future: when I get home.",
+      "id": "d239"
+    },
+    {
+      "type": "type",
+      "topic": "fut_will",
+      "q": "Don't worry. I ___ (carry) the bag for you.",
+      "a": [
+        "will carry",
+        "'ll carry"
+      ],
+      "e": "An offer made at the moment of speaking → will.",
+      "id": "d240"
+    },
+    {
+      "type": "type",
+      "topic": "fut_will",
+      "q": "My team ___ (win) the match, I think.",
+      "a": [
+        "will win",
+        "'ll win"
+      ],
+      "e": "An opinion about the future (I think) → will + base verb.",
+      "id": "d241"
+    },
+    {
+      "type": "mcq",
+      "topic": "fut_will",
+      "q": "I think she ___ pass the exam.",
+      "o": [
+        "will",
+        "is",
+        "does",
+        "has"
+      ],
+      "a": 0,
+      "e": "An opinion or prediction after I think → will + base verb.",
+      "fa": "",
+      "id": "d242"
+    },
+    {
+      "type": "mcq",
+      "topic": "fut_will",
+      "q": "I'm cold. I ___ close the window.",
+      "o": [
+        "will",
+        "am going to",
+        "close",
+        "closed"
+      ],
+      "a": 0,
+      "e": "A decision made at the moment of speaking → will.",
+      "fa": "",
+      "id": "d243"
+    },
+    {
+      "type": "mcq",
+      "topic": "fut_will",
+      "q": "Don't worry. I ___ help you.",
+      "o": [
+        "will",
+        "am",
+        "do",
+        "have"
+      ],
+      "a": 0,
+      "e": "A promise or an offer to help → will.",
+      "fa": "",
+      "id": "d244"
+    },
+    {
+      "type": "mcq",
+      "topic": "fut_will",
+      "q": "She is ill. She ___ come to the party.",
+      "o": [
+        "won't",
+        "will",
+        "is",
+        "does"
+      ],
+      "a": 0,
+      "e": "won't = will not. Use will not + base verb for a negative future.",
+      "fa": "",
+      "id": "d245"
+    },
+    {
+      "type": "build",
+      "topic": "fut_will",
+      "s": "I will call you tomorrow.",
+      "fa": "Promise to phone someone tomorrow.",
+      "x": [
+        "calling"
+      ],
+      "e": "will + base verb (no to).",
+      "id": "d246"
+    },
+    {
+      "type": "build",
+      "topic": "fut_will",
+      "s": "He will not be late.",
+      "fa": "Say he will not be late.",
+      "x": [
+        "is"
+      ],
+      "e": "Negative: will not + base verb.",
+      "id": "d247"
+    },
+    {
+      "type": "error",
+      "topic": "fut_will",
+      "s": "He will goes to school tomorrow.",
+      "w": 2,
+      "f": "go",
+      "e": "After will the verb is in its base form, with no -s.",
+      "id": "d248"
+    },
+    {
+      "type": "error",
+      "topic": "fut_will",
+      "s": "She will to help us.",
+      "w": 2,
+      "f": "",
+      "e": "After will we use the base verb directly, without to.",
+      "id": "d249"
+    },
+    {
+      "type": "type",
+      "topic": "fut_will",
+      "q": "Tomorrow it ___ (be) sunny. I think so.",
+      "a": [
+        "will be",
+        "'ll be"
+      ],
+      "e": "An opinion or prediction → will + be.",
+      "id": "d250"
+    },
+    {
+      "type": "type",
+      "topic": "fut_will",
+      "q": "I ___ (not / forget) your birthday. I promise.",
+      "a": [
+        "won't forget",
+        "will not forget"
+      ],
+      "e": "A promise → will. Negative: won't + base verb.",
+      "id": "d251"
+    },
+    {
+      "type": "match",
+      "topic": "fut_will",
+      "q": "Short forms of will",
+      "pairs": [
+        [
+          "I will",
+          "I'll"
+        ],
+        [
+          "you will",
+          "you'll"
+        ],
+        [
+          "he will",
+          "he'll"
+        ],
+        [
+          "we will",
+          "we'll"
+        ],
+        [
+          "they will",
+          "they'll"
+        ],
+        [
+          "will not",
+          "won't"
+        ]
+      ],
+      "e": "In speaking we usually use the short forms.",
+      "id": "d252"
+    },
+    {
+      "type": "mcq",
+      "topic": "fut_going",
+      "q": "We have booked the tickets. We ___ fly to Dubai next week.",
+      "o": [
+        "will",
+        "are going to",
+        "fly",
+        "flew"
+      ],
+      "a": 1,
+      "e": "A plan that is already decided → be going to.",
+      "fa": "",
+      "id": "d253"
+    },
+    {
+      "type": "mcq",
+      "topic": "fut_going",
+      "q": "Look at his face! He ___ cry.",
+      "o": [
+        "is going to",
+        "will",
+        "does",
+        "has"
+      ],
+      "a": 0,
+      "e": "We can see signs that it will happen → be going to.",
+      "fa": "",
+      "id": "d254"
+    },
+    {
+      "type": "build",
+      "topic": "fut_going",
+      "s": "I am going to visit my grandparents.",
+      "fa": "Say you plan to visit your grandparents.",
+      "x": [
+        "will"
+      ],
+      "e": "A plan → am / is / are + going to + base verb.",
+      "id": "d255"
+    },
+    {
+      "type": "build",
+      "topic": "fut_going",
+      "s": "What are you going to do tonight?",
+      "fa": "Ask about someone's plan for tonight.",
+      "x": [
+        "will"
+      ],
+      "e": "Question: Wh- word + are + subject + going to + base verb?",
+      "id": "d256"
+    },
+    {
+      "type": "build",
+      "topic": "fut_going",
+      "s": "He is going to be a doctor.",
+      "fa": "Say he plans to become a doctor.",
+      "x": [
+        "are"
+      ],
+      "e": "A plan → is going to + base verb.",
+      "id": "d257"
+    },
+    {
+      "type": "build",
+      "topic": "fut_going",
+      "s": "We are not going to travel this summer.",
+      "fa": "Say you have no plan to travel this summer.",
+      "x": [
+        "is"
+      ],
+      "e": "Negative: are not going to + base verb.",
+      "id": "d258"
+    },
+    {
+      "type": "build",
+      "topic": "fut_going",
+      "s": "Is she going to cook dinner?",
+      "fa": "Ask if she plans to cook dinner.",
+      "x": [
+        "are"
+      ],
+      "e": "Question: Is + subject + going to + base verb?",
+      "id": "d259"
+    },
+    {
+      "type": "build",
+      "topic": "fut_going",
+      "s": "It is going to snow tonight.",
+      "fa": "Say it is going to snow tonight because you can see the signs.",
+      "x": [
+        "will"
+      ],
+      "e": "A prediction based on evidence → be going to.",
+      "id": "d260"
+    },
+    {
+      "type": "error",
+      "topic": "fut_going",
+      "s": "I am going to buys a car.",
+      "w": 4,
+      "f": "buy",
+      "e": "After going to the verb is in its base form.",
+      "id": "d261"
+    },
+    {
+      "type": "error",
+      "topic": "fut_going",
+      "s": "He are going to call you.",
+      "w": 1,
+      "f": "is",
+      "e": "With he we use is.",
+      "id": "d262"
+    },
+    {
+      "type": "error",
+      "topic": "fut_going",
+      "s": "We is going to play tennis.",
+      "w": 1,
+      "f": "are",
+      "e": "With we we use are.",
+      "id": "d263"
+    },
+    {
+      "type": "error",
+      "topic": "fut_going",
+      "s": "They are going to watching a film.",
+      "w": 4,
+      "f": "watch",
+      "e": "After going to the verb is in its base form.",
+      "id": "d264"
+    },
+    {
+      "type": "error",
+      "topic": "fut_going",
+      "s": "Are you going to cooks tonight?",
+      "w": 4,
+      "f": "cook",
+      "e": "After going to the verb is in its base form.",
+      "id": "d265"
+    },
+    {
+      "type": "error",
+      "topic": "fut_going",
+      "s": "My brother am going to study law.",
+      "w": 2,
+      "f": "is",
+      "e": "With my brother (he) we use is.",
+      "id": "d266"
+    },
+    {
+      "type": "type",
+      "topic": "fut_going",
+      "q": "We ___ (have) a picnic on Saturday. I have made sandwiches.",
+      "a": [
+        "are going to have",
+        "'re going to have"
+      ],
+      "e": "A plan already made → are going to + base verb.",
+      "id": "d267"
+    },
+    {
+      "type": "type",
+      "topic": "fut_going",
+      "q": "She ___ (study) medicine. It is her plan.",
+      "a": [
+        "is going to study",
+        "'s going to study"
+      ],
+      "e": "A plan → is going to + base verb.",
+      "id": "d268"
+    },
+    {
+      "type": "type",
+      "topic": "fut_going",
+      "q": "Look at the sky! It ___ (rain).",
+      "a": [
+        "is going to rain",
+        "'s going to rain"
+      ],
+      "e": "A prediction from evidence we can see → is going to.",
+      "id": "d269"
+    },
+    {
+      "type": "type",
+      "topic": "fut_going",
+      "q": "I ___ (not / watch) TV tonight. I have homework.",
+      "a": [
+        "am not going to watch",
+        "'m not going to watch"
+      ],
+      "e": "Negative with I: am not going to + base verb.",
+      "id": "d270"
+    },
+    {
+      "type": "type",
+      "topic": "fut_going",
+      "q": "___ (be) you going to join us?",
+      "a": [
+        "Are"
+      ],
+      "e": "With you the question starts with Are.",
+      "id": "d271"
+    },
+    {
+      "type": "type",
+      "topic": "fut_going",
+      "q": "He ___ (not / buy) that car. It is too expensive.",
+      "a": [
+        "isn't going to buy",
+        "is not going to buy",
+        "'s not going to buy"
+      ],
+      "e": "Negative: is not going to + base verb.",
+      "id": "d272"
+    },
+    {
+      "type": "mcq",
+      "topic": "fut_going",
+      "q": "Watch out! That glass ___ fall off the table.",
+      "o": [
+        "is going to",
+        "will",
+        "does",
+        "has"
+      ],
+      "a": 0,
+      "e": "We can see that it will happen (evidence) → be going to.",
+      "fa": "",
+      "id": "d273"
+    },
+    {
+      "type": "mcq",
+      "topic": "fut_going",
+      "q": "I have decided: I ___ learn the guitar this year.",
+      "o": [
+        "will",
+        "am going to",
+        "learn",
+        "learned"
+      ],
+      "a": 1,
+      "e": "A decision made before speaking → be going to.",
+      "fa": "",
+      "id": "d274"
+    },
+    {
+      "type": "mcq",
+      "topic": "fut_going",
+      "q": "Where ___ they going to stay in London?",
+      "o": [
+        "are",
+        "do",
+        "will",
+        "is"
+      ],
+      "a": 0,
+      "e": "Question: Wh- word + are + they + going to + base verb.",
+      "fa": "",
+      "id": "d275"
+    },
+    {
+      "type": "mcq",
+      "topic": "fut_going",
+      "q": "My sister ___ going to move to Canada next year.",
+      "o": [
+        "is",
+        "are",
+        "am",
+        "be"
+      ],
+      "a": 0,
+      "e": "With she (third person singular) the auxiliary is is.",
+      "fa": "",
+      "id": "d276"
+    },
+    {
+      "type": "build",
+      "topic": "fut_going",
+      "s": "Are you going to wear a coat?",
+      "fa": "Ask if someone plans to wear a coat.",
+      "x": [
+        "will"
+      ],
+      "e": "Question: am / is / are + subject + going to + base verb?",
+      "id": "d277"
+    },
+    {
+      "type": "build",
+      "topic": "fut_going",
+      "s": "He is not going to study tonight.",
+      "fa": "Say he has no plan to study tonight.",
+      "x": [
+        "are"
+      ],
+      "e": "Negative: is not going to + base verb.",
+      "id": "d278"
+    },
+    {
+      "type": "error",
+      "topic": "fut_going",
+      "s": "We are going to played football.",
+      "w": 4,
+      "f": "play",
+      "e": "After going to the verb is in its base form: going to play.",
+      "id": "d279"
+    },
+    {
+      "type": "error",
+      "topic": "fut_going",
+      "s": "She are going to buy a car.",
+      "w": 1,
+      "f": "is",
+      "e": "With she we use is: She is going to buy.",
+      "id": "d280"
+    },
+    {
+      "type": "type",
+      "topic": "fut_going",
+      "q": "I ___ (paint) my room this weekend. I have the paint.",
+      "a": [
+        "am going to paint",
+        "'m going to paint"
+      ],
+      "e": "A plan made before speaking → am going to + base verb.",
+      "id": "d281"
+    },
+    {
+      "type": "type",
+      "topic": "fut_going",
+      "q": "They ___ (not / go) on holiday this summer.",
+      "a": [
+        "aren't going to go",
+        "are not going to go",
+        "'re not going to go"
+      ],
+      "e": "Negative: are not going to + base verb.",
+      "id": "d282"
+    },
+    {
+      "type": "mcq",
+      "topic": "fut_going",
+      "q": "Look at those clouds! It ___ rain.",
+      "o": [
+        "will",
+        "is going to",
+        "is",
+        "does"
+      ],
+      "a": 1,
+      "e": "A prediction based on evidence we can see (the clouds) → be going to.",
+      "fa": "",
+      "id": "d283"
+    },
+    {
+      "type": "mcq",
+      "topic": "fut_going",
+      "q": "We ___ visit Shiraz next month. We have bought the tickets.",
+      "o": [
+        "will",
+        "are going to",
+        "visit",
+        "visited"
+      ],
+      "a": 1,
+      "e": "A plan that was already decided → be going to.",
+      "fa": "",
+      "id": "d284"
+    },
+    {
+      "type": "mcq",
+      "topic": "fut_going",
+      "q": "What ___ you going to do this weekend?",
+      "o": [
+        "are",
+        "do",
+        "will",
+        "is"
+      ],
+      "a": 0,
+      "e": "Question: Wh- word + am / is / are + subject + going to + base verb.",
+      "fa": "",
+      "id": "d285"
+    },
+    {
+      "type": "mcq",
+      "topic": "fut_going",
+      "q": "I ___ going to study tonight.",
+      "o": [
+        "am",
+        "is",
+        "are",
+        "will"
+      ],
+      "a": 0,
+      "e": "With I the auxiliary is am: I am going to study.",
+      "fa": "",
+      "id": "d286"
+    },
+    {
+      "type": "build",
+      "topic": "fut_going",
+      "s": "She is going to buy a new bag.",
+      "fa": "Say she plans to buy a new bag.",
+      "x": [
+        "will"
+      ],
+      "e": "Structure: am / is / are + going to + base verb.",
+      "id": "d287"
+    },
+    {
+      "type": "build",
+      "topic": "fut_going",
+      "s": "They are not going to play today.",
+      "fa": "Say they have no plan to play today.",
+      "x": [
+        "is"
+      ],
+      "e": "Negative: am / is / are + not + going to + base verb.",
+      "id": "d288"
+    },
+    {
+      "type": "error",
+      "topic": "fut_going",
+      "s": "I am going to meets him.",
+      "w": 4,
+      "f": "meet",
+      "e": "After going to the verb is in its base form: going to meet.",
+      "id": "d289"
+    },
+    {
+      "type": "error",
+      "topic": "fut_going",
+      "s": "They is going to travel by train.",
+      "w": 1,
+      "f": "are",
+      "e": "With They we must use are: They are going to travel.",
+      "id": "d290"
+    },
+    {
+      "type": "type",
+      "topic": "fut_going",
+      "q": "I ___ (visit) my aunt tonight. I have a plan.",
+      "a": [
+        "am going to visit",
+        "'m going to visit"
+      ],
+      "e": "A plan made before → am going to + base verb.",
+      "id": "d291"
+    },
+    {
+      "type": "type",
+      "topic": "fut_going",
+      "q": "My parents ___ (buy) a new car next week.",
+      "a": [
+        "are going to buy",
+        "'re going to buy"
+      ],
+      "e": "A plan for the future with they → are going to + base verb.",
+      "id": "d292"
+    },
+    {
+      "type": "match",
+      "topic": "fut_going",
+      "q": "More short forms of be going to",
+      "pairs": [
+        [
+          "he is going to",
+          "he's going to"
+        ],
+        [
+          "we are going to",
+          "we're going to"
+        ],
+        [
+          "you are going to",
+          "you're going to"
+        ],
+        [
+          "it is going to",
+          "it's going to"
+        ],
+        [
+          "he is not going to",
+          "he's not going to"
+        ],
+        [
+          "we are not going to",
+          "we're not going to"
+        ]
+      ],
+      "e": "In speaking we usually use the short forms.",
+      "id": "d293"
+    },
+    {
+      "type": "match",
+      "topic": "fut_going",
+      "q": "Short forms of be going to",
+      "pairs": [
+        [
+          "I am going to",
+          "I'm going to"
+        ],
+        [
+          "she is going to",
+          "she's going to"
+        ],
+        [
+          "they are going to",
+          "they're going to"
+        ],
+        [
+          "is not going to",
+          "isn't going to"
+        ],
+        [
+          "are not going to",
+          "aren't going to"
+        ],
+        [
+          "I am not going to",
+          "I'm not going to"
+        ]
+      ],
+      "e": "In speaking we usually use the short forms.",
+      "id": "d294"
+    }
+  ]
+}
