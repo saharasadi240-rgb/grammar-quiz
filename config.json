@@ -1,0 +1,9 @@
+{
+  "ai": {
+    "provider": "anthropic",
+    "url": "https://api.anthropic.com/v1/messages",
+    "model": "claude-haiku-5-5"
+  },
+  "db": "https://grammar-quiz-792c5-default-rtdb.firebaseio.com",
+  "noGuest": false
+}
